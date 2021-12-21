@@ -54,7 +54,7 @@ const ConForm = () => {
                          <div data-aos="fade-left">
                             <div className="fluid mx-md-5 px-md-4">
                                 <div className="conform-contactForm  p-5 m-4">
-                                    <p className="conform-contactHeading text-uppercase fw-bold my-5 fs-4">Contact us</p>
+                                    <p className="conform-contactHeading text-uppercase fw-bold m-3 fs-4">Contact us</p>
                                 
                                     <div className="row">
                                         <div className="col mx-md-3" >
@@ -93,7 +93,7 @@ const ConForm = () => {
                                     </div>
                                     
                                     
-                                    <button type="button" className="btn footer-button">
+                                    <button type="button" className=" mx-3 btn footer-button">
                                     <a href="mailto:someone@example.com">
 
                                         <div className="footer-button-text">
